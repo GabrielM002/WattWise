@@ -30,6 +30,6 @@ Hoje, estou aqui para apresentar o aplicativo revolucionário WattWise - o **Wat
 ##
 
 <div align="center">
-  <p>Créditos: <a href="https://github.com/viinicius-medeiross/github-readme-stats">Vinícius Medeiros</a>, <a href="https://github.com/AkaLuiz">Luiz Carlos</a>, <a href="https://github.com/bruna-andrades">Bruna Andrade</a>, <a href="https://github.com/camilacampelo">Camila Campelo</a>, <a href="https://github.com/CoyoteColt">Rômulo Rodrigues</a>, <a href="https://github.com/Lovelgames">Sarah Iascara</a>, <a href="https://github.com/GabrielM002">Gabriel Morais</a>, <a href="https://github.com/Rubinthree">Rubens Bueno</a> </p>
+  <p>Créditos: <a href="https://github.com/viinicius-medeiross">Vinícius Medeiros</a>, <a href="https://github.com/AkaLuiz">Luiz Carlos</a>, <a href="https://github.com/bruna-andrades">Bruna Andrade</a>, <a href="https://github.com/camilacampelo">Camila Campelo</a>, <a href="https://github.com/CoyoteColt">Rômulo Rodrigues</a>, <a href="https://github.com/Lovelgames">Sarah Iascara</a>, <a href="https://github.com/GabrielM002">Gabriel Morais</a>, <a href="https://github.com/Rubinthree">Rubens Bueno</a> </p>
   <h4> Feito com muito :heart: e Flutter. </h4>
 </div>
